@@ -1,0 +1,7 @@
+id = "rusty-theme"
+name = "Rusty Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Jigyansu Nanda <nandajigyansu@gmail.com>"]
+description = "Rusty, a collection of themes"
+repository = "https://github.com/jigyansunanda/Rusty"
