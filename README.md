@@ -1,3 +1,7 @@
-# Rusty
+# Focus
 
-Rusty is a theme for Zed code editor to help you focus only on code.
+Focus is a collection of themes created for 3 major reasons:
+
+-   Lesser eye strain
+-   Focus on code
+-   Aesthetically pleasing

@@ -1,7 +1,7 @@
-id = "rusty-theme"
-name = "Rusty Theme"
+id = "focus-theme"
+name = "Focus Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["Jigyansu Nanda <nandajigyansu@gmail.com>"]
-description = "Rusty, a collection of themes"
-repository = "https://github.com/jigyansunanda/Rusty"
+description = "Focus is a collection of themes created to cause less eye strain and help you focus on code"
+repository = "https://github.com/jigyansunanda/Focus"
