@@ -1,6 +1,6 @@
 # Focus
 
-Focus is a collection of themes for Zed code editor created for 3 major reasons:
+Focus is a collection of themes for the [Zed code editor](https://zed.dev) created for 3 major reasons:
 
 -   Lesser eye strain
 -   Focus on code
