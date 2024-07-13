@@ -13,7 +13,7 @@
                 "border.transparent": "#271e1c",
                 "border.disabled": "#271e1c",
 
-                "elevated_surface.background": "#271e1c",
+                "elevated_surface.background": "#3b2e2a",
 
                 "surface.background": "#2c2f33",
                 "background": "#3b2e2a",
@@ -343,7 +343,7 @@
                 "border.transparent": "#1d2520",
                 "border.disabled": "#1d2520",
 
-                "elevated_surface.background": "#1d2520",
+                "elevated_surface.background": "#28342c",
 
                 "surface.background": "#2c2f33",
                 "background": "#28342c",
@@ -673,7 +673,7 @@
                 "border.transparent": "#161818",
                 "border.disabled": "#161818",
 
-                "elevated_surface.background": "#161818",
+                "elevated_surface.background": "#242424",
 
                 "surface.background": "#2c2f33",
                 "background": "#242424",
@@ -1003,7 +1003,7 @@
                 "border.transparent": "#161818",
                 "border.disabled": "#161818",
 
-                "elevated_surface.background": "#161818",
+                "elevated_surface.background": "#1d2021",
 
                 "surface.background": "#2c2f33",
                 "background": "#1d2021",
@@ -1334,7 +1334,7 @@
                 "border.transparent": "#1d2520",
                 "border.disabled": "#1d2520",
 
-                "elevated_surface.background": "#1d2520",
+                "elevated_surface.background": "#28342c",
 
                 "surface.background": "#2c2f33",
                 "background": "#28342c",
@@ -1665,7 +1665,7 @@
                 "border.transparent": "#161818",
                 "border.disabled": "#161818",
 
-                "elevated_surface.background": "#161818",
+                "elevated_surface.background": "#2c2f33",
 
                 "surface.background": "#2c2f33",
                 "background": "#242424",
